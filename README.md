@@ -11,7 +11,6 @@ It allows users to efficiently **record, track, and analyze corporate actions** 
 
 The tracker provides structured sheets to input events and automatically update portfolio holdings, enabling better monitoring of how corporate actions affect investments.
 
----
 
 ## Features
 - **Corporate Action Input Sheet** – Record details of various corporate actions.  
@@ -20,21 +19,18 @@ The tracker provides structured sheets to input events and automatically update 
 - **IPO Allocation Record** – Maintain history of new issues and their impact on portfolio.  
 - **User-Friendly Excel Layout** – No coding required; uses Excel formulas for automation.
 
----
 
 ## Example Use Cases
 - Fund accounting teams tracking corporate actions for NAV calculation.  
 - Portfolio managers monitoring dividends and splits in client holdings.  
 - Analysts preparing reports on the financial impact of corporate events.  
 
----
 
 ## Tech Stack
 - **Microsoft Excel** (Formulas, Tables, Basic Automation)
 
----
 
-## 📈 Future Enhancements
+## Future Enhancements
 - Power BI dashboard integration for visualization.  
 - SQL/Python-based extension for automation and scaling.  
 - NAV calculation integration.  
