@@ -1,6 +1,6 @@
 # Corporate Actions Tracker (Excel Project)
 
-## 📌 Overview
+## Overview
 This project is an **Excel-based Corporate Actions Tracker** designed for investment banking and fund accounting use cases.  
 It allows users to efficiently **record, track, and analyze corporate actions** such as:
 
@@ -13,7 +13,7 @@ The tracker provides structured sheets to input events and automatically update 
 
 ---
 
-## 🗂️ Features
+## Features
 - **Corporate Action Input Sheet** – Record details of various corporate actions.  
 - **Portfolio Holdings Tracker** – Monitor changes in securities holdings after corporate actions.  
 - **Automated Calculations** – Updates the effect of stock splits, dividends, and rights issues.  
@@ -22,14 +22,14 @@ The tracker provides structured sheets to input events and automatically update 
 
 ---
 
-## 📊 Example Use Cases
+## Example Use Cases
 - Fund accounting teams tracking corporate actions for NAV calculation.  
 - Portfolio managers monitoring dividends and splits in client holdings.  
 - Analysts preparing reports on the financial impact of corporate events.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Microsoft Excel** (Formulas, Tables, Basic Automation)
 
 ---
